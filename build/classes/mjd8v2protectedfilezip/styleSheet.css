@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+.grid-instructions {
+    min-width: 100%;
+    height: 160px;
+    -fx-pref-width: 100%;
+    max-height: 160px;
+    word-wrap: normal;
+}
+.text-white {
+    -fx-text-fill: #F5F5F5;
+}
+
+.text-danger {
+    -fx-text-fill: #D12A09;
+}
+
+.content-box {
+   width: 600px;
+   height: 400px;
+   -fx-background-color: #909090;
+} 
+
+.login-btn {
+    margin-top: 10px;
+    -fx-pref-height: 40px;
+    -fx-pref-width: 300px;
+}
+
+
+.top-label {
+    -fx-pref-height: 50px;
+    -fx-pref-width: 300px;
+    -fx-font-size: 22px;
+}
+.progressBar {
+    -fx-pref-width: 400px;
+    -fx-pref-height: 40px;
+}
+
+.success-btn {
+     -fx-font-family: Consolas;
+    -fx-background-color: #22921D;
+    -fx-font-size: 15px;
+}
+
+.danger-btn {
+    -fx-background-color: #D12A09;
+    -fx-font-size: 15px;
+}
+
+.warning-btn {
+    -fx-background-color: #cc7910;
+    -fx-font-size: 15px;
+}
+
+.primary-btn {
+     -fx-font-family: Consolas;
+    -fx-background-color: #428bca;
+}
+.text-area {
+    -fx-font-family: Consolas;
+    -fx-font-size: 13px;
+    -fx-text-fill: #ffffff;
+    -fx-display-caret:true;
+}
+.text-area .content {
+    -fx-background-color: #000000;
+}
+
